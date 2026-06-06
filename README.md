@@ -43,3 +43,4 @@ Open [http://localhost:5173](http://localhost:5173).
 - `npm run dev` — start dev server
 - `npm run build` — production build
 - `npm run preview` — preview production build
+# snippetshelf
